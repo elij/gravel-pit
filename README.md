@@ -1,4 +1,4 @@
-# Grave Pit
+# Gravel Pit
 
 Proof of concept using macroexpand-all and side-effect-free as the basis of a sandboxed elisp interpreter.
 
