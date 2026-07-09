@@ -1,5 +1,8 @@
 # Gravel Pit
 
+> [!WARNING]
+> This repository is archived and no longer actively maintained. The code is evolved further in `macher-agent` [sandbox](https://github.com/elij/macher-agent/blob/main/macher-agent-sandbox.el)
+
 Proof of concept using macroexpand-all and side-effect-free as the basis of a sandboxed elisp interpreter.
 
 This is a bit different to other approaches like [elisp-sandbox](https://github.com/joelmccracken/elisp-sandbox) which is based around faster at execution rewriting approach.
